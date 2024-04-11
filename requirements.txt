@@ -1,0 +1,8 @@
+requests
+langchain
+flask
+langchain_openai
+bs4
+faiss-cpu
+html2text
+langchain_community
